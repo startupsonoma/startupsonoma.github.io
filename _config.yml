@@ -1,19 +1,23 @@
+---
 title: Startup Sonoma County
-email: startupsonomaco@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-Startup Sonoma County provides a productive and dynamic environment to help
-Sonoma county technology startups and entrepreneurs grow and succeed.
+#email: startupsonomaco@example.com
+description: >-
+  Startup Sonoma County provides a productive and dynamic environment to help
+  Sonoma county technology startups and entrepreneurs grow and succeed.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://startupsonoma.com"
 twitter_username: startupsonomaco
 github_username:  startupsonoma
+
+header_pages:
+  - slack.md
+  - conduct.md
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
