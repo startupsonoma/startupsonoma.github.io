@@ -11,7 +11,6 @@ Sonoma county.
 
 ## Upcoming Events
 
-* April 4th, 1-3pm at Acre: [Cowork and Coffee](https://www.meetup.com/Startup-Sonoma/events/249228710/)
 * April 12th, 7-8:30pm at 537 4th St: [Startup Pitch Spring Training](https://www.meetup.com/Startup-Sonoma/events/249103096/)
 
 Additional events can be found on **[our Meetup group](https://www.meetup.com/Startup-Sonoma/)**.
