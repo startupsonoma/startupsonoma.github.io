@@ -13,6 +13,13 @@ Sonoma county.
 
 * April 12th, 7-8:30pm at 537 4th St: [Startup Pitch Spring Training](https://www.meetup.com/Startup-Sonoma/events/249103096/)
 
+
+### Cowork and Coffee
+
+Every Wednesday from 1:00 - 3:00pm, current and future members of Startup
+Sonoma County are invited to "Cowork and Coffee" at Acre Coffee at 621 4th St,
+Santa Rosa.
+
 Additional events can be found on **[our Meetup group](https://www.meetup.com/Startup-Sonoma/)**.
 
 
