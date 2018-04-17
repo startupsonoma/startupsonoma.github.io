@@ -11,9 +11,6 @@ Sonoma county.
 
 ## Upcoming Events
 
-* April 12th, 7-8:30pm at 537 4th St: [Startup Pitch Spring Training](https://www.meetup.com/Startup-Sonoma/events/249103096/)
-
-
 ### Cowork and Coffee
 
 Every Wednesday from 1:00 - 3:00pm, current and future members of Startup
