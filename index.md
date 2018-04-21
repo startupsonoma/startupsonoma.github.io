@@ -11,13 +11,14 @@ Sonoma county.
 
 ## Upcoming Events
 
-### Cowork and Coffee
+* **Cowork and Coffee**: wednesdays from 1-3pm at Acre Coffee at 621 4th St, Santa Rosa
+  * Current and future members of Startup Sonoma County are invited to "Cowork and Coffee"
+* **Monthly Meetup**
+  * Scheduled on [our Meetup group](https://www.meetup.com/Startup-Sonoma/),
+    meet other entrepreneurs to get feedback, share challenges, find solutions.
 
-Every Wednesday from 1:00 - 3:00pm, current and future members of Startup
-Sonoma County are invited to "Cowork and Coffee" at Acre Coffee at 621 4th St,
-Santa Rosa.
 
-Additional events can be found on **[our Meetup group](https://www.meetup.com/Startup-Sonoma/)**.
+Additional events can be found as they're scheuled on **[our Meetup group](https://www.meetup.com/Startup-Sonoma/)**.
 
 
 ## The Space
