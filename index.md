@@ -38,7 +38,9 @@ ideas are shared, and mutual support is the norm. New members are expected to
 “give before they get” and must help the entire community grow and thrive.
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSce_n-S4FcyCjbbQwq0NJMtgpfIeLyGpn7BcBrDPikq0GS0GQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+**If you're interested in joining us in the work space, please fill in [this
+form](https://docs.google.com/forms/d/e/1FAIpQLSce_n-S4FcyCjbbQwq0NJMtgpfIeLyGpn7BcBrDPikq0GS0GQ/viewform)**
 
 
 ## The Team
