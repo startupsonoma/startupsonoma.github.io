@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Code of Conduct
 permalink: /conduct/
 ---
@@ -60,8 +60,7 @@ clarified by core team.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the core team at `rtylercroy` at GMail, `abhi` at
-OpsZero.com, and/or `dana` at DanaWoodman.com. All
+reported by contacting the board at `board` at `startupsonoma` dot `com`. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The core team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
