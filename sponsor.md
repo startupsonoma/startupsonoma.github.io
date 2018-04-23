@@ -77,7 +77,7 @@ succeed.
 
 <a name="individual"></a>
 
-## Indivudual Sponsorship
+## Individual Sponsorship
 
 We also welcome individual sponsorships by Friends of Startup Sonoma County who
 share our vision, and wish to invest in the future of innovation in the North
