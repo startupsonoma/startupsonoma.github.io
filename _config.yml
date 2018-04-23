@@ -11,6 +11,7 @@ github_username:  startupsonoma
 
 header_pages:
   - slack.md
+  - sponsor.md
   - conduct.md
 
 # Build settings
