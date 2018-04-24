@@ -13,6 +13,7 @@ header_pages:
   - slack.md
   - sponsor.md
   - conduct.md
+  - startups.html
 
 # Build settings
 markdown: kramdown

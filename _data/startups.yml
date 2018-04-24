@@ -1,0 +1,9 @@
+
+- name: BIG
+  url: https://builtbybig.com/
+  logo_url:
+  description: Software development and consulting for start-ups
+- name: opsZero
+  url: https://www.opszero.com
+  logo_url: https://www.opszero.com/assets/images/opszero.png
+  description: DevOps and Cloud Infrastructure for Startups.
