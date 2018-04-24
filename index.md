@@ -37,15 +37,39 @@ bill-by-hour-space, but rather a location where new startups are incubated,
 ideas are shared, and mutual support is the norm. New members are expected to
 “give before they get” and must help the entire community grow and thrive.
 
-
 <div class="typeform-widget" data-url="https://opszero.typeform.com/to/RDjEDM" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=RDjEDM&utm_source=typeform.com-9917016-Pro&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
 
 ## The Team
 
-Startup Sonoma County is a community organization fostered by the following core team and a incredibly helpful group of advisors.
+Startup Sonoma County is focused on fostering innovation in the
+North Bay through collaboration and events. Our efforts are spear-headed by the [founding
+team](#founders) and our incredibly talented [board of advisors](#advisors).
 
-### Core
+<a name="advisors"></a>
+### Board of Advisors
+
+<img src="images/team/sherry.jpeg" width="120" alt="Sherry Huss" align="right"/>
+
+[Sherry Huss](https://twitter.com/SherryHuss), co-creator of Maker Faire and
+Vice President of Maker Media, helping to create the Maker Movement, a
+tech-focused community of do-it-yourselfers ahd events.  Sherry oversees
+community, partnerships, and events. She is focused on growing the MAKE brand
+throughout the Maker ecosystem which includes 221 Maker Faires around the world
+and 1.75M people attending an event in their community.
+
+<br clear="all"/>
+
+<img src="images/team/erin.jpeg" width="120" alt="Erin Rose" hspace="10" align="left"/>
+[Erin Rose Opperman](http://erinrosecreative.com/), a Sonoma county based visual designer and creative strategist. Previously, Erin was the Art Director for Sonoma
+county's award-winning agency "[The Engine is
+Red](http://theengineisred.com/)", where she created brand strategies,
+marketing concepts, and more.
+
+<br clear="all"/>
+
+<a name="founders"></a>
+### Founders
 
 <img src="images/team/rtyler.jpeg" width="120" alt="R Tyler Croy" align="right"/>
 
@@ -72,3 +96,5 @@ which builds software products and services for companies large and small.
 Sonoma County, a steadily growing company which provides operations and
 technology infrastructure (“DevOps as a Service”) to many Y Combinator-backed
 technology startups throughout the Bay Area.
+
+<br clear="all"/>
