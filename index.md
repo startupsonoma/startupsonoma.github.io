@@ -46,55 +46,5 @@ Startup Sonoma County is focused on fostering innovation in the
 North Bay through collaboration and events. Our efforts are spear-headed by the [founding
 team](#founders) and our incredibly talented [board of advisors](#advisors).
 
-<a name="advisors"></a>
-### Board of Advisors
-
-<img src="images/team/sherry.jpeg" width="120" alt="Sherry Huss" align="right"/>
-
-[Sherry Huss](https://twitter.com/SherryHuss), co-creator of Maker Faire and
-Vice President of Maker Media, helping to create the Maker Movement, a
-tech-focused community of do-it-yourselfers ahd events.  Sherry oversees
-community, partnerships, and events. She is focused on growing the MAKE brand
-throughout the Maker ecosystem which includes 221 Maker Faires around the world
-and 1.75M people attending an event in their community.
-
-<br clear="all"/>
-
-<img src="images/team/erin.jpeg" width="120" alt="Erin Rose" hspace="10" align="left"/>
-[Erin Rose Opperman](http://erinrosecreative.com/), a Sonoma county based visual designer and creative strategist. Previously, Erin was the Art Director for Sonoma
-county's award-winning agency "[The Engine is
-Red](http://theengineisred.com/)", where she created brand strategies,
-marketing concepts, and more.
-
-<br clear="all"/>
-
-<a name="founders"></a>
-### Founders
-
-<img src="images/team/rtyler.jpeg" width="120" alt="R Tyler Croy" align="right"/>
-
-[R Tyler Croy](https://twitter.com/agentdero),
-located in Santa Rosa led product and engineering groups at Slide. Apture.
-(both acquired by Google), and Lookout. He has consistently built product
-engineering teams to deliver successful new products which reach tens of
-millions monthly active users. Tyler is also on the board for the
-[Jenkins](https://jenkins.io) project and [Software in the Public
-Interest](https://spi-inc.org).
-
-
-<img src="images/team/danawoodman.jpeg" width="120" hspace="10" alt="Dana Woodman" align="left"/>
-[Dana Woodman](https://twitter.com/danawoodman),
-located in Sebastopol, founded the first-of-its-kind [Chimera Arts and
-Makerspace](http://www.chimeraarts.org/) over six years ago in Sebastopol. In
-addition to cultivating and growing the “maker” community in Sonoma county,
-Dana also founded [BIG](http://builtbybig.com/), a technology and design studio
-which builds software products and services for companies large and small.
-
-<img src="images/team/abhiyerra.jpeg" width="120" alt="Abhi Yerra" align="right"/>
-[Abhi Yerra](https://twitter.com/abhiyerra),
- located in Santa Rosa, Abhi founded [opsZero](https://www.opszero.com/) in
-Sonoma County, a steadily growing company which provides operations and
-technology infrastructure (“DevOps as a Service”) to many Y Combinator-backed
-technology startups throughout the Bay Area.
-
-<br clear="all"/>
+{% include home/advisors.html %}
+{% include home/founders.html %}

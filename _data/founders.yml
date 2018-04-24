@@ -1,0 +1,24 @@
+- name: R Tyler Croy
+  twitter: R Tyler Croy
+  desc: "R Tyler Croy located in Santa Rosa led product and engineering groups at Slide. Apture.
+(both acquired by Google), and Lookout. He has consistently built product
+engineering teams to deliver successful new products which reach tens of
+millions monthly active users. Tyler is also on the board for the
+[Jenkins](https://jenkins.io) project and [Software in the Public
+Interest](https://spi-inc.org)."
+  pic: assets/images/team/rtyler.jpeg
+
+- name: Dana Woodman
+  twitter: https://twitter.com/danawoodman
+  desc: "[Dana Woodman](), located in Sebastopol, founded the first-of-its-kind [Chimera Arts and
+Makerspace](http://www.chimeraarts.org/) over six years ago in Sebastopol. In addition to cultivating and growing the \"maker\"
+community in Sonoma county, Dana also founded [BIG](http://builtbybig.com/), a technology and design studio which builds
+software products and services for companies large and small."
+  pic: assets/images/team/danawoodman.jpeg
+
+- name: Abhi Yerra
+  twitter: https://twitter.com/abhiyerra
+  desc: "[Abhi Yerra](), located in Santa Rosa, Abhi founded [opsZero](https://www.opszero.com/) in
+Sonoma County, a steadily growing company which provides operations and technology infrastructure (“DevOps as a Service”)
+to many Y Combinator-backed technology startups throughout the Bay Area."
+  pic: assets/images/team/abhiyerra.jpeg

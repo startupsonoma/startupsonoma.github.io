@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1>Board of Advisors</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for advisor in site.data.advisors %}
+        <div class="card col-md-4 crop">
+            <img class="card-img-top img-fluid" src="{{advisor.pic}}" alt="{{advisor.name}}">
+            <div class="card-body">
+                <h5 class="card-title">{{advisor.name}}</h5>
+                <p class="card-text">{{advisor.desc}}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

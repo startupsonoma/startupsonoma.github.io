@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 .ruby-*
 *.sw*
+.vscode/last.sql
+.DS_Store
