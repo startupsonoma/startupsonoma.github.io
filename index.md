@@ -60,7 +60,7 @@ and 1.75M people attending an event in their community.
 
 <br clear="all"/>
 
-<img src="images/team/erin.jpeg" width="120" alt="Erin Rose" hspace="10" align="left"/>
+<img src="images/team/erin.jpeg" width="120" alt="Erin Rose" hspace="5" align="left"/>
 [Erin Rose Opperman](http://erinrosecreative.com/), a Sonoma county based visual designer and creative strategist. Previously, Erin was the Art Director for Sonoma
 county's award-winning agency "[The Engine is
 Red](http://theengineisred.com/)", where she created brand strategies,
