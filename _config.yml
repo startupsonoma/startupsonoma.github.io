@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://startupsonoma.com"
 twitter_username: startupsonomaco
 github_username:  startupsonoma
+google_analytics: 'UA-118274675-1'
 
 header_pages:
   - slack.md
