@@ -2,12 +2,16 @@
 layout: home
 ---
 
-Startup Sonoma County provides a productive and dynamic environment to help
-Sonoma county technology startups and entrepreneurs achieve success faster, and
-more consistently, than they may otherwise accomplish alone.  With a physical
-space and a  culture of sharing knowledge, skills, and resources, North Bay
-entrepreneurs will find it easier to innovate and invest in the success of
-Sonoma county.
+Startup Sonoma County provides a modern, fully-operational environment for
+local entrepreneurs to work together, incubate, and accelerate their
+businesses. Our state-of-the-art office space offers a low-investment
+opportunity for outstanding Sonoma County professionals to network,
+collaborate, and evolve their business ideas. Our wide-reaching advisory
+network facilitates and fosters rapid development through mentorship,
+thought-leadership, and strategic socialization. In turn, our community-wide
+partnerships serve local business and retain top-talent in Sonoma county by
+resourcing and advocating for the local business community.
+
 
 ## Upcoming Events
 
