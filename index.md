@@ -48,12 +48,12 @@ ideas are shared, and mutual support is the norm. New members are expected to
 
 Startup Sonoma County is focused on fostering innovation in the
 North Bay through collaboration and events. Our efforts are spear-headed by the [founding
-team](#founders) and our incredibly talented [board of advisors](#advisors).
+team](#founders) and our talented [board of advisors](#board-advisors).
 
-<a name="advisors"></a>
+<a name="board-advisors"></a>
 ### Board of Advisors
 
-<img src="images/team/sherry.jpeg" width="120" alt="Sherry Huss" align="right"/>
+<img src="images/team/sherry.jpeg" width="120" alt="Sherry Huss" hspace="5" align="right"/>
 
 [Sherry Huss](https://twitter.com/SherryHuss), co-creator of Maker Faire and
 Vice President of Maker Media, helping to create the Maker Movement, a
@@ -100,5 +100,17 @@ which builds software products and services for companies large and small.
 Sonoma County, a steadily growing company which provides operations and
 technology infrastructure (“DevOps as a Service”) to many Y Combinator-backed
 technology startups throughout the Bay Area.
+
+<br clear="all"/>
+
+<a name="advisors"></a>
+### Advisors
+
+<img src="images/team/thomson.jpeg" width="120" alt="Thomson Nguyen" hspace="5" align="left"/>
+
+[Thomson Nguyen](https://twitter.com/itsthomson), an Entrepreneur in Residence
+at Kleiner Perkins Caufield & Byers. He was recently the Head of Data Science
+at Square Capital, the small-business lending arm for Square. Before that, he
+was co-founder and CEO of Framed Data, which was acquired by Square in 2016.
 
 <br clear="all"/>
