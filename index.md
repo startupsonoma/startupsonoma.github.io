@@ -12,6 +12,45 @@ thought-leadership, and strategic socialization. In turn, our community-wide
 partnerships serve local business and retain top-talent in Sonoma county by
 resourcing and advocating for the local business community.
 
+<style type="text/css">
+#mc_embed_signup {
+    padding: 2rem;
+    background: #fafafa;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #0009;
+}
+.mc-field-group {
+    margin-right: 1rem;
+}
+</style>
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+    <form action="https://startupsonoma.us18.list-manage.com/subscribe/post?u=6ad0494041b32796f046a3e6e&amp;id=562eb39731" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll" style="text-align: center;">
+            <h2>Get the latest news and updates</h2>
+            <span class="mc-field-group">
+                <input placeholder="Email address (required)" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </span>
+            <span class="mc-field-group">
+                <input placeholder="Your name" type="text" value="" name="FULL_NAME" class="" id="mce-FULL_NAME">
+            </span>
+            <span class="clear">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </span>
+            <input type="hidden" value="homepage" name="MMERGE7" class="" id="mce-MMERGE7">
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <input type="text" name="b_6ad0494041b32796f046a3e6e_562eb39731" tabindex="-1" value="">
+            </div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->
+
 
 ## Upcoming Events
 
@@ -23,7 +62,6 @@ resourcing and advocating for the local business community.
 
 
 Additional events can be found as they're scheuled on **[our Meetup group](https://www.meetup.com/Startup-Sonoma/)**.
-
 
 ## The Space
 
