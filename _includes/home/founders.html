@@ -1,17 +1,17 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12 text-center">
-            <h1>Founders</h1>
+            <h2>Founders</h2>
         </div>
     </div>
 
     <div class="row">
         {% for founder in site.data.founders %}
-        <div class="card col-md-4 crop">
-            <img class="card-img-top img-fluid" src="{{founder.pic}}" alt="{{founder.name}}">
+        <div class="col-md-4 crop">
+            <img class="img img-fluid" width="175px" src="{{founder.pic}}" alt="{{founder.name}}">
             <div class="card-body">
                 <h5 class="card-title">{{founder.name}}</h5>
-                <p class="card-text">{{founder.desc}}</p>
+                <p class="card-text">{{founder.desc  | markdownify }}</p>
             </div>
         </div>
         {% endfor %}
