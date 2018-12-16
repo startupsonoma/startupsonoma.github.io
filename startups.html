@@ -1,0 +1,26 @@
+---
+layout: default
+title: Startup Showcase
+---
+
+
+<div class="row">
+  <div class="col-md-12 text-center">
+    <h1>Startup Showcase</h1>
+
+    <a class="typeform-share button" href="https://opszero.typeform.com/to/kx3tyM" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">Add Your Startup </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+  </div>
+</div>
+
+<div class="row">
+  {% for startup in site.data.startups %}
+  <div class="col-md-2 col-lg-2">
+    <a href="{{startup.url}}">
+      <img src="{{startup.logo_url}}" alt="{{startup.name}}" class="img" />
+    </a>
+    <p class="description">
+      {{start.description}}
+    </p>
+  </div>
+  {% endfor %}
+</div>
